@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://hd-wall-papers.com/images/wallpapers/drummer-wallpapers/drummer-wallpapers-11.jpg) bottom center;
+  background: url(../img/background.jpg) bottom center;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -47,8 +47,8 @@ kbd {
 }
 
 .sound {
-  font-size: 1.2rem;
+  font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #f70;
 }
